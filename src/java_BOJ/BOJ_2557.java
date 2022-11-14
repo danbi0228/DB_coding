@@ -2,7 +2,6 @@ package java_BOJ;
 
 public class BOJ_2557 {
     public static void main(String[] args) {
-//		Q. 1. Hello World!를 출력하시오.
 
         System.out.println("Hello World!");
 
