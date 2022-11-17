@@ -1,13 +1,13 @@
-package java_BOJ;
+package java_BOJ_level1;
 
 import java.util.Scanner;
 
-public class BOJ_10926 {
+public class BOJ_18108 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        String a = sc.nextLine();
+        int a = sc.nextInt();
 
-        System.out.println(a + "??!");
+        System.out.println(a - 543);
     }
 }

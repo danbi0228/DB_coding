@@ -1,4 +1,4 @@
-package java_BOJ;
+package java_BOJ_level1;
 
 public class BOJ_25083 {
     public static void main(String[] args) {
