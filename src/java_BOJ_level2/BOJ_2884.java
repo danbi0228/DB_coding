@@ -25,23 +25,5 @@ public class BOJ_2884 {
         } else { // 45분보다 클 때
             System.out.println(h + " " + (m - 45));
         }
-
-//		Scanner sc = new Scanner(System.in);
-//
-//		int a = sc.nextInt(); // 시
-//		int b = sc.nextInt(); // 분
-//
-//		if (b < 45) {
-//			a--;
-//			b = 60 - (45 - b);
-//			if (a < 0) {
-//				a = 23;
-//			}
-//			System.out.println(a + " " + b);
-//		} else {
-//			System.out.println(a + " " + (b - 45));
-//		}
-//
-//		sc.close();
     }
 }
