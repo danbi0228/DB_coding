@@ -12,6 +12,7 @@ public class Exam24 {
                 answer = arr[arr.length / 2 - 1] + arr[arr.length / 2];
             }
         }
+
         return answer;
     }
 }
