@@ -13,7 +13,6 @@ public class Exam68 {
                 }
             }else{
                 answer = "fail";
-                break;
             }
         }
         return answer;
