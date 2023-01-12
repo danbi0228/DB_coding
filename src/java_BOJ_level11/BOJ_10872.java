@@ -17,7 +17,7 @@ public class BOJ_10872 {
         System.out.println(num);
     }
 
-//    다른 풀이 - 재귀귀
+//    다른 풀이 - 재귀
 //   BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //
 //	    int N = Integer.parseInt(br.readLine());
