@@ -1,4 +1,4 @@
-package java_BOJ_level5;
+package BOJ_Bronze2;
 
 public class BOJ_15596 {
     class Test{
