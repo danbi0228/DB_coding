@@ -1,4 +1,4 @@
-package java_BOJ_level10;
+package BOJ_Silver5;
 
 import java.io.*;
 import java.util.Arrays;
