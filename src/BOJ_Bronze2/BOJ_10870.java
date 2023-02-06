@@ -1,4 +1,4 @@
-package java_BOJ_level11;
+package BOJ_Bronze2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
