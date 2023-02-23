@@ -1,4 +1,4 @@
-package java_BOJ_level3;
+package BOJ_Bronze5;
 
 import java.util.Scanner;
 
