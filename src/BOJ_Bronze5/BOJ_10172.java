@@ -1,4 +1,4 @@
-package java_BOJ_level1;
+package BOJ_Bronze5;
 
 public class BOJ_10172 {
     public static void main(String[] args) {
